@@ -1,0 +1,38 @@
+h1 {
+    background-color: purple;
+    color: #fff;
+}
+
+#titulo-importante {
+    background-color: blue;
+}
+
+h2 {
+    background-color: pink;
+    color: #000;
+}
+
+.sub-titulo {
+    background-color: yellow;
+}
+
+section {
+    background-color: green;
+}
+
+.titulo-secao {
+    color: #fff;
+}
+
+.texto-generico {
+    color: #000;
+}
+
+footer {
+    background-color: #000;
+    color: #fff;
+}
+
+.titulo-pouco-importante {
+    color: gray;
+}
